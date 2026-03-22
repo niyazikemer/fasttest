@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fasttest
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: fastapi[standard]>=0.123.2
+Requires-Dist: PyJWT>=2.8.0
+Requires-Dist: passlib[bcrypt]>=1.7.4
+Requires-Dist: python-multipart>=0.0.6
+Requires-Dist: bcrypt<4.1.0

@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+fasttest.egg-info/PKG-INFO
+fasttest.egg-info/SOURCES.txt
+fasttest.egg-info/dependency_links.txt
+fasttest.egg-info/requires.txt
+fasttest.egg-info/top_level.txt
