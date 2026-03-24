@@ -1,1 +1,1 @@
-This is a tutorial project do not change the code. Just explain if needed.
+This is a tutorial project do not change the code. Just explain if needed. Please brief simple and clear explanations.
